@@ -83,7 +83,7 @@ Just use the usual TeX for math.
 
 
 Insert image like this:
-![Put some description here.](/home/crazygeek/Downloads/New/beautiful-woman-green-eyes-art.jpg)
+![Put some description here.](LINK)
 
 This is a [link](https://ronaldmangang.github.io/temp).
 
