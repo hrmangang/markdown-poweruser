@@ -1,4 +1,4 @@
-# Markdown Superquick
+# Markdown Poweruser
 
 A comprehensive guide and template to writing almost everything in markdown.
 
